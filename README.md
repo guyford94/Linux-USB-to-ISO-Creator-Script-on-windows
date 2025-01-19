@@ -43,8 +43,7 @@ Once complete, the ISO file will be saved with the name linux_usb_backup.iso in 
 Example Output
 When running the script, you might see:
 
-javascript
-Copy code
+
 Listing drives using WSL...
 NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
 sda      8:0    0 238.5G  0 disk
